@@ -19,4 +19,11 @@ var PUB_HOST = JSON.stringify('')
 程序默认开发后端地址为，http://localhost:38083/，生产环境则为后端的地址
 
 
+demo演示地址为：http://demo.vuelaravel.net 账号：test 密码：test
+
+官网：http://www.vuelaravel.net
+
+更详细的开发文档：https://www.kancloud.cn/ijijni/vuelaravel
+
+
 
