@@ -1,0 +1,8 @@
+php/.idea
+php/composer.lock
+php/*.log
+php/runtime
+frontEnd/node_modules/*
+php/.env
+php/storage/*
+php/bootstrap/cache/*
