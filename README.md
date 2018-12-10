@@ -10,7 +10,7 @@ vue+laravel rbac
 
 把php目录下的.env.example文件复制为.env,然后配置好.env里面的数据库连接配置
 
-后台登陆默认账号和密码为，admin vuelaravel
+数据库后台登陆默认账号和密码为，admin 123456 （非demo账号密码，demo账号密码请看下面）
 
 前端frontEnd/build 目录下的webpack.base.conf.js文件，需要修改后端访问地址，如下
 var DEV_HOST = JSON.stringify('http://localhost:38083/')
